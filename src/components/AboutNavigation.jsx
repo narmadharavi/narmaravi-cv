@@ -14,13 +14,19 @@ class AboutNavigation extends Component {
                         </Link>
                     </li>
                     <li>
-                        Volunteering
+                        <Link to="/volunteering">
+                            Volunteering
+                        </Link>
                     </li>
                     <li>
-                        Hobbies
+                        <Link to="/hobbies">
+                            Hobbies
+                        </Link>
                     </li>
                     <li>
-                        Work Experience
+                        <Link to="/orkexperience">
+                            Volunteering
+                        </Link>
                     </li>
                 </ul>
             </div>
